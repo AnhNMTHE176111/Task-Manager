@@ -1,2 +1,2 @@
 # Task-Manager
-This is very simple CRUD website with express and mongoBD
+This is very simple CRUD ToDo website with express and mongoBD
